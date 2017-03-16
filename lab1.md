@@ -1,5 +1,4 @@
 | 姓名        | 学号  | 网址|
-| --------   | -----:  | :----:  |
 | 王晓荷    | 2014082337 |   https://xiaohe527864003.github.io  |
 | 陈晓强    | 2014082211 |   https://ccxiaoqiang.github.io  |
 | 陈  凯    | 2014082207 | https://jakieenchan.github.io    |
@@ -22,4 +21,5 @@
 | 周晓冬     | 2014082305  | https://zxiaodong.github.io |
 | 谷沁清  | 2014082214  | https://guqinqing.github.io    |
 | 汪秋凌    | 2014082235 |   https://QiulingWang1995.github.io  |
+|   徐建聪     |   2014082413    |  https://xuxiaocongdiao.github.io |
 | 周恩静    | 2014082334 |   https://YSJSYSGS.github.io/  |
